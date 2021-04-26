@@ -8,9 +8,9 @@ admin go to all service check at check admin status ,at first admin log in then 
 
 user order details : when user click order details at fist check user state .then log in success full then show user previous services purchase details .
 
-experience in the project : yes my skills develop day by dy but this project in the extra experience in web develop care . i feel much better because i am finally done this project .
+experience in the project : yes my skills develop day by dy but this project in the extra experience in web developer  c. i feel much better because i am finally done this project .
 
-total crouse i am on time finish but last project not submit on time , 
+
 
 finally complete project. and many many keep learning
 
